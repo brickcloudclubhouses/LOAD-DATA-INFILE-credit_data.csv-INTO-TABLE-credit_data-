@@ -1,0 +1,16 @@
+SQL
+CREATE TABLE credit_data (
+  name STRING,
+  date_of_birth DATE,
+  credit_card_number STRING,
+  credit_information STRING,
+  credit_score INTEGER,
+  payment_history STRING,
+  credit_utilization INTEGER,
+  length_of_credit INTEGER,
+  types_of_credit INTEGER,
+  recent_credit_inquiries INTEGER,
+  debt_to_income_ratio FLOAT,
+  employment_status STRING,
+  annual_income INTEGER
+);
